@@ -61,5 +61,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"http://172.31.129.30:4000"
+  "proxy":"https://advanced-event-management-system-backend.vercel.app"
 }
